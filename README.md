@@ -1,6 +1,6 @@
 # ALZA
 
-Homework #5
+Homework #2
 
 I'd like to first mention that the biggest problems I encountered during this project were really  typos; simple things like accidentally putting a colon where a semicolon belong (for the last method of a class of all cases! Gave me weird errors about no constructor body) or errors in my contact.html file, which caused all sorts of weird compiling issues.
 
